@@ -1,0 +1,7 @@
+.search_form {
+  padding: 20px;
+  display: flex;
+  gap: 20px;
+  background-color: rgb(255, 255, 132);
+  border-radius: 10px;
+}
